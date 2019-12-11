@@ -70,13 +70,82 @@ train_data[param_name2] = ageConvertedList
 
 # training_result = processed_train_data[param_name].values  # outputs a ndarrays
 
+"""
+print(data[param_name1].value_counts())
+label_Breed = (data[param_name3].value_counts())
+label_Breed.to_csv("/Users/zhoucai/Github/ML_Study/data/Breed_Label_Counts.csv", encoding='utf-8', index=False)
+"""
 
-#print(data[param_name1].value_counts())
-print(data[param_name3].value_counts().shape)
 #print(data[param_name4].value_counts())
 
-data[param_name3].value_counts().unique()
-print(data[param_name ].value_counts())
+print("_________________HEre_____")
+
+# breed array printing
+print(data[param_name3].value_counts().unique())
+print(data[param_name3].value_counts().to_string())
+label_array = np.arange(len(data[param_name3].value_counts()))
+
+print(data[param_name].value_counts())
+
+f = open('/Users/zhoucai/Github/ML_Study/data/breed_array.txt','w')
+f.write(data[param_name3].value_counts().to_string())
+f.close()
+
+breed_label_table = pd.DataFrame({
+"Breed Name": (data[param_name3].value_counts(normalize=True)),
+"Converted number": label_array
+})
+
+breed_label_table.to_csv("/Users/zhoucai/Github/ML_Study/data/Breed_Label_table.csv", encoding='utf-8', index=False)
+
+# Outcome type array printing 0
+f = open('/Users/zhoucai/Github/ML_Study/data/outcome_array.txt','w')
+f.write(data[param_name].value_counts().to_string())
+f.close()
+label_array = np.arange(len(data[param_name].value_counts()))
+outcome_label_table = pd.DataFrame({
+"Outcome": (data[param_name].value_counts(normalize=True)),
+"Converted number": label_array
+})
+
+outcome_label_table.to_csv("/Users/zhoucai/Github/ML_Study/data/Outcome_Label_table.csv", encoding='utf-8', index=False)
+
+#Animal Type printing 1
+f = open('/Users/zhoucai/Github/ML_Study/data/animalType_array.txt','w')
+f.write(data[param_name1].value_counts().to_string())
+f.close()
+label_array = np.arange(len(data[param_name1].value_counts()))
+animalType_table = pd.DataFrame({
+"Animal Type": (data[param_name1].value_counts(normalize=True)),
+"Converted number": label_array
+})
+
+animalType_table.to_csv("/Users/zhoucai/Github/ML_Study/data/AnimalType_table.csv", encoding='utf-8', index=False)
+# Color printing 4
+
+f = open('/Users/zhoucai/Github/ML_Study/data/color_array.txt','w')
+f.write(data[param_name4].value_counts().to_string())
+f.close()
+label_array = np.arange(len(data[param_name4].value_counts()))
+color_label_table = pd.DataFrame({
+"Animal Color": (data[param_name4].value_counts()),
+"Converted number": label_array
+})
+
+color_label_table.to_csv("/Users/zhoucai/Github/ML_Study/data/color_Label_table.csv", encoding='utf-8', index=False)
+
+# Sex upon outcome  5
+f = open('/Users/zhoucai/Github/ML_Study/data/sex_array.txt','w')
+f.write(data[param_name5].value_counts().to_string())
+f.close()
+
+label_array = np.arange(len(data[param_name5].value_counts()))
+sex_label_table = pd.DataFrame({
+"Sex upon outcome": (data[param_name5].value_counts(normalize=True)),
+"Converted number": label_array
+})
+
+sex_label_table.to_csv("/Users/zhoucai/Github/ML_Study/data/sex_Label_table.csv", encoding='utf-8', index=False)
 
 # label_encoder object knows how to understand word labels.
 label_encoder = preprocessing.LabelEncoder()

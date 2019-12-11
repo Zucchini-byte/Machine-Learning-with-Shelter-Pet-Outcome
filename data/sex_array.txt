@@ -1,0 +1,5 @@
+Neutered Male    9779
+Spayed Female    8820
+Intact Male      3525
+Intact Female    3511
+Unknown          1093

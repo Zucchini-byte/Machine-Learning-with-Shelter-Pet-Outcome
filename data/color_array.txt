@@ -1,0 +1,366 @@
+Black/White                    2824
+Black                          2292
+Brown Tabby                    1635
+Brown Tabby/White               940
+White                           931
+Brown/White                     884
+Orange Tabby                    841
+Tan/White                       773
+Tricolor                        752
+Blue/White                      702
+Black/Tan                       672
+White/Black                     643
+Brown                           639
+Tan                             628
+White/Brown                     569
+Tortie                          530
+Calico                          517
+Orange Tabby/White              455
+Blue                            450
+Brown Brindle/White             450
+Black/Brown                     436
+Blue Tabby                      433
+White/Tan                       389
+Red                             337
+Torbie                          335
+Brown/Black                     333
+Red/White                       331
+Blue Tabby/White                241
+Brown Brindle                   232
+Chocolate/White                 224
+Buff                            199
+Cream Tabby                     198
+Sable                           198
+Yellow                          185
+Tan/Black                       183
+Lynx Point                      168
+Cream                           151
+Chocolate                       137
+Seal Point                      136
+White/Blue                      131
+White/Brown Brindle             115
+Fawn/White                      109
+White/Brown Tabby                98
+Gray/White                       96
+Gray                             94
+Sable/White                      86
+Flame Point                      85
+Cream Tabby/White                79
+Blue Merle                       77
+Black Brindle/White              74
+Fawn                             73
+Chocolate/Tan                    66
+Red/Black                        62
+Torbie/White                     60
+White/Red                        55
+White/Gray                       55
+White/Orange Tabby               52
+Gold                             52
+White/Tricolor                   51
+Brown/Tan                        51
+Black Smoke                      46
+Black/Brown Brindle              45
+Blue Merle/White                 44
+Buff/White                       43
+Yellow/White                     43
+Black Tabby                      42
+Black/Tricolor                   39
+White/Chocolate                  39
+White/Buff                       39
+Lilac Point                      39
+Black/Gray                       38
+Cream/White                      38
+White/Cream                      36
+Gray Tabby                       35
+Brown Merle                      35
+Tortie/White                     33
+Brown Merle/White                33
+Blue/Tan                         33
+Tortie Point                     32
+White/Orange                     30
+Blue Point                       29
+Silver Tabby                     28
+Blue Merle/Tan                   26
+Red Merle                        26
+Orange/White                     26
+Red/Tan                          26
+Calico Point                     25
+Tan/Brown                        24
+Calico/White                     24
+Red Merle/White                  23
+Apricot                          21
+Silver/Tan                       20
+Black Brindle                    20
+Fawn/Black                       19
+Gold/White                       19
+Seal Point/White                 19
+Tricolor/White                   18
+Black Tabby/White                18
+Blue Tick                        18
+Silver                           17
+Yellow Brindle/White             17
+Black/Red                        17
+Red Tick                         17
+Chocolate Point                  16
+Cream/Black                      16
+Tan/Gray                         16
+Sable/Tan                        16
+White/Blue Tabby                 16
+Gray/Black                       16
+Orange                           15
+Gray Tabby/White                 15
+Red Tick/White                   15
+Black Smoke/White                15
+Lynx Point/White                 13
+Brown/Tricolor                   12
+Yellow Brindle                   12
+White/Liver                      12
+White/White                      12
+Sable/Black                      12
+Silver Tabby/White               12
+Blue Tick/Black                  11
+Liver/White                      11
+Buff/Tan                         11
+Tan/Silver                       11
+Gray/Tan                         11
+Blue Cream                       11
+Tricolor/Black                   11
+Black/Cream                      10
+White/Black Brindle               9
+Brown Tabby/Black                 9
+Tortie/Blue Cream                 9
+Tan/Buff                          9
+Tan/Cream                         9
+Brown/Gray                        8
+Cream/Tan                         8
+Buff/Black                        8
+Black/Blue Merle                  8
+Red/Brown                         8
+Brown Brindle/Black               7
+Blue Merle/Brown                  7
+Blue Tiger/White                  7
+Sable/Brown                       7
+Tricolor/Brown                    7
+White/Red Tick                    7
+Black/Blue Tick                   6
+Chocolate/Brown                   6
+Brown/Red                         6
+White/Blue Merle                  6
+Tan/Tan                           6
+Black/Black Brindle               5
+Black/Buff                        5
+Silver/Black                      5
+White/Cream Tabby                 5
+Chocolate Point/White             5
+Tan/Blue                          4
+White/Brown Merle                 4
+Gray/Silver                       4
+Tan/Red                           4
+Blue Cream/White                  4
+Silver/Brown                      4
+Black/Black                       4
+Blue Tick/Tan                     4
+White/Yellow Brindle              4
+Red/Cream                         4
+White/Red Merle                   4
+White/Black Tabby                 4
+Blue Smoke                        4
+Blue Merle/Black                  4
+Brown/Cream                       4
+Blue/Black                        4
+Silver/White                      4
+Brown Brindle/Red Tick            3
+Chocolate/Red                     3
+Black/Silver                      3
+White/Gold                        3
+Tortie/Orange                     3
+White/Pink                        3
+Blue/Brown Brindle                3
+Black Brindle/Brown               3
+Liver/Tan                         3
+Blue Tick/Brown                   3
+Gray/Brown                        3
+Brown Tiger                       3
+Blue Tick/White                   3
+White/Chocolate Point             3
+Fawn/Blue                         3
+White/Silver                      3
+Blue Tick/Red Tick                3
+Apricot/White                     3
+Seal Point/Brown                  3
+Tricolor/Tan                      3
+Blue/Cream                        3
+Liver Tick                        3
+Calico/Brown Tabby                3
+Black/Blue                        3
+Black/Black Smoke                 3
+Black/Orange                      3
+Sable/Cream                       3
+Cream/Brown                       2
+White/Blue Tick                   2
+Chocolate/Black Smoke             2
+Red Tick/Tan                      2
+Apricot/Brown                     2
+Tricolor/Blue                     2
+Gold/Gold                         2
+Black/Brown Merle                 2
+Silver Lynx Point                 2
+Silver/Chocolate                  2
+Red/Red Tick                      2
+Red Merle/Black                   2
+Red/Buff                          2
+Calico Point/White                2
+Brown/Brown                       2
+Black/Chocolate                   2
+Cream/Gray                        2
+Brown Tabby/Orange                2
+Blue Merle/Tricolor               2
+Black Tiger/White                 2
+Brown/Buff                        2
+Brown Merle/Black                 2
+Red Tick/Red                      2
+Buff/Gray                         2
+Red/Red Merle                     2
+White/Blue Cream                  2
+Black/Yellow Brindle              2
+White/Lynx Point                  2
+Calico/Black                      2
+Red/Tricolor                      2
+Buff/Yellow                       2
+Brown/Red Tick                    2
+Brown Tabby/Gray                  2
+Tortie/Black                      2
+Chocolate/Tricolor                2
+Brown Tabby/Tortie                2
+Tricolor/Silver                   2
+Tricolor/Chocolate                2
+Blue Point/White                  2
+Chocolate/Black                   2
+Fawn/Tan                          2
+White/Yellow                      2
+Tan/Gold                          2
+White/Apricot                     2
+Brown/Chocolate                   2
+Gray/Cream                        2
+White/Gray Tabby                  2
+Calico/Tricolor                   2
+Brown Brindle/Tan                 2
+Blue Merle/Blue Merle             1
+Brown/Blue Smoke                  1
+Brown Brindle/Blue                1
+Chocolate/Brown Brindle           1
+Red/Silver                        1
+Sable/Red                         1
+Cream/Orange                      1
+Torbie/Brown                      1
+Tan/Tricolor                      1
+Orange Tiger                      1
+Black/Silver Tabby                1
+Tan/Brown Merle                   1
+Blue/Tortie                       1
+Blue/Brown                        1
+Agouti                            1
+Black Brindle/Black               1
+Brown/Black Brindle               1
+Buff/Brown                        1
+Orange Tabby/Orange               1
+Brown/Silver                      1
+Blue Cream/Buff                   1
+Red Tick/Blue Tick                1
+Silver/Red                        1
+Fawn/Tricolor                     1
+Tortie Point/Lynx Point           1
+Black Tabby/Orange                1
+Blue Cream/Blue Tabby             1
+Brown Brindle/Blue Cream          1
+Gold/Buff                         1
+White/Calico                      1
+White/Flame Point                 1
+Silver Tabby/Black                1
+Blue Merle/Cream                  1
+Lynx Point/Brown Tabby            1
+Red Tick/Black                    1
+Yellow Brindle/Tan                1
+Blue Merle/Gray                   1
+Orange Tabby/Black                1
+Fawn/Brown Brindle                1
+Torbie/Blue Cream                 1
+Red/Gold                          1
+Orange/Tan                        1
+Calico/Orange Tabby               1
+Brown Merle/Tan                   1
+Tan/Apricot                       1
+Blue Tiger                        1
+Sable/Buff                        1
+Brown Brindle/Blue Tick           1
+Tricolor/Brown Merle              1
+Calico/Blue Tabby                 1
+Brown/Blue                        1
+Brown Merle/Blue Merle            1
+Blue Tabby/Orange                 1
+Red Tick/Brown Merle              1
+Black/Yellow                      1
+Chocolate/Brown Merle             1
+Brown Tabby/Gray Tabby            1
+Brown Tiger/White                 1
+Blue Cream/Tortie                 1
+Yellow/Yellow                     1
+Calico/Blue Cream                 1
+Tortie/Black Smoke                1
+Blue/Yellow Brindle               1
+Blue Tick/Brown Brindle           1
+Lynx Point/Gray Tabby             1
+Cream/Red Tick                    1
+Red Merle/Tan                     1
+Brown/Brown Merle                 1
+Blue/Orange                       1
+Agouti/Brown Tabby                1
+Tricolor/Calico                   1
+Tortie/Brown                      1
+Blue Tabby/Blue Cream             1
+Torbie/Calico                     1
+Brown Brindle/Brown Brindle       1
+Chocolate/Cream                   1
+Ruddy/Cream                       1
+Tortie Point/White                1
+Black Brindle/Brown Brindle       1
+Cream/Red                         1
+Tricolor/Blue Merle               1
+Blue Tabby/Tan                    1
+Red Tick/Brown                    1
+Gold/Yellow                       1
+Fawn/Brown                        1
+Chocolate/Red Tick                1
+Red/Blue                          1
+Yellow Brindle/Blue               1
+Gold/Black                        1
+Blue Tabby/Cream                  1
+Blue Smoke/Brown                  1
+Chocolate/Gold                    1
+Gold/Tan                          1
+Black Smoke/Brown Tabby           1
+Buff/Red                          1
+Orange/Orange Tabby               1
+Tan/Yellow Brindle                1
+Blue Merle/Red                    1
+Tortie/Calico                     1
+Blue Cream/Blue Tiger             1
+Black/Black Tabby                 1
+Orange Tabby/Apricot              1
+White/Black Smoke                 1
+Liver/Buff                        1
+Chocolate/Gray                    1
+Blue Tick/Red                     1
+Cream/Seal Point                  1
+Brown Brindle/Brown Merle         1
+Brown Tabby/Brown                 1
+Calico/Brown                      1
+White/Brown Tiger                 1
+Gray/Red                          1
+Brown/Black Tabby                 1
+Blue Merle/Red Merle              1
+Tan/Brown Brindle                 1
+Liver Tick/White                  1
+Yellow/Black                      1
+Pink                              1
+Gray Tabby/Black                  1
