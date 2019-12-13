@@ -7,3 +7,5 @@ dataPrep.py is used to prepare and format the dataset
 modelTraining.py implements sklearn python library to train a model using the data I prepared.
 
 All the graphs and data are stored in the data directory.
+
+Jordan was here.......
